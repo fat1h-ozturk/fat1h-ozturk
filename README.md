@@ -1,4 +1,4 @@
-```
+<pre>
 NAME
         fat1h-ozturk — Fatih Ozturk
 
@@ -28,7 +28,7 @@ ENVIRONMENT VARIABLES
             fedora, plasma, neovim…
 
         CONTENT
-            **GitHub:** [github.com/fat1h-ozturk](https://github.com/fat1h-ozturk), **LinkedIn:** [linkedin.com/in/fatih-öztürk-829775347/](https://linkedin.com/in/fatih-öztürk-829775347/)
+            <b>GitHub:</b> <a href="[https://github.com/fat1h-ozturk](https://github.com/fat1h-ozturk)">[github.com/fat1h-ozturk](https://github.com/fat1h-ozturk)</a>, <b>LinkedIn:</b> <a href="[https://linkedin.com/in/fatih-%C3%B6zt%C3%BCrk-829775347/](https://linkedin.com/in/fatih-%C3%B6zt%C3%BCrk-829775347/)">[linkedin.com/in/fatih-öztürk-829775347/](https://linkedin.com/in/fatih-öztürk-829775347/)</a>
 
 Manual page fat1h-ozturk(1)                                    0% (press h for help)
-```
+</pre>
