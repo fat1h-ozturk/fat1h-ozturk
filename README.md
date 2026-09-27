@@ -1,34 +1,11 @@
-```
-NAME
-        fat1h-ozturk — Fatih Ozturk
+<div align="center">
+  <img src="readme_neofetch_nord.svg" width="100%" alt="Fatih Neofetch Terminal" />
+</div>
 
-SYNOPSIS
-        fat1h-ozturk [OPTIONS]
+<br/>
 
-DESCRIPTION
-        Gazi University - CENG student 2/4
-        Learning full-stack development with .NET (C#, ASP.NET Core)
-        Exploring backend APIs, Entity Framework & SQL Server
+<div align="center">
 
-OPTIONS
-        --hey
-            Sends magic bytes for communication
+**LinkedIn:** [https://www.linkedin.com/in/fatih-öztürk-829775347/](https://www.linkedin.com/in/fatih-%C3%B6zt%C3%BCrk-829775347/)
 
-        --now
-            Shows recent public work, maintenance & side quests
-
-SUPPORTED EXTENSIONS
-        *.c, *.java
-
-ENVIRONMENT VARIABLES
-        LANG
-            tr_TR.utf-8, en_US.utf-8
-
-        CONFIG
-            fedora, plasma, neovim…
-
-        CONTENT
-            github, linkedin
-
-Manual page fat1h-ozturk(1)                                    0% (press h for help)
-```
+</div>

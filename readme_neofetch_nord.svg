@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 926 501" width="926" height="501">
+  <style>
+    .bg { fill: #242933; rx: 12px; }
+    .ascii-text { font-family: Consolas, Fira Code, Monaco, "Courier New", Courier, monospace; font-size: 4.5px; white-space: pre; }
+    .stats-text { font-family: Consolas, Fira Code, Monaco, "Courier New", Courier, monospace; font-size: 12px; white-space: pre; }
+    
+    
+    
+    @keyframes lineFadeIn {
+      from { opacity: 0; transform: translateY(2px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .fade-line {
+      animation: lineFadeIn 0.35s ease-out forwards;
+      opacity: 0;
+    }
+  
+  </style>
+
+  <!-- Terminal Window Background -->
+  <rect width="926" height="501" class="bg" rx="12" stroke="#333" stroke-width="1" />
+  
+
+  <!-- Code / Text Area -->
+  <text class="ascii-text">
+<tspan x="24" y="63.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.000s;"></tspan>
+<tspan x="24" y="69.5" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.040s;"></tspan>
+<tspan x="24" y="75.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.080s;">                                                       - /--\</tspan>
+<tspan x="24" y="80.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.120s;">                                                  /------/::\----------\</tspan>
+<tspan x="24" y="86.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.160s;">                                              /---/  . .:....... ::.  .\------\</tspan>
+<tspan x="24" y="92.0" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.200s;">                                            /-/      ::   .    .:::...:.   ..:\--</tspan>
+<tspan x="24" y="97.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.240s;">                                           |/        .:.  .  .   ./   .      .   \</tspan>
+<tspan x="24" y="103.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.280s;">                                           |.        --       .             ..:.. -\</tspan>
+<tspan x="24" y="108.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.320s;">                                          //.    -      ..       .             .:. \\</tspan>
+<tspan x="24" y="114.5" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.360s;">                                         //.     .      .        .      ..  ..   .:.|\\</tspan>
+<tspan x="24" y="120.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.400s;">                                     /---/  .           ..  .                ...  ...:\\</tspan>
+<tspan x="24" y="125.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.440s;">                                     | ....      .   --       --------\      : .:   .:.\\</tspan>
+<tspan x="24" y="131.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.480s;">                                     | ..  .       ---------------==--\--   :..:/  ...::\-\</tspan>
+<tspan x="24" y="136.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.520s;">                                    //.          /-------------+=\:---:::. ..   /       ..\\</tspan>
+<tspan x="24" y="142.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.560s;">                                    |...   .  --////#%##*******++++=--=::\..            .::\\</tspan>
+<tspan x="24" y="148.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.600s;">                                    |..    ..//---#####*****+++++++++++-=-\\           .:...|</tspan>
+<tspan x="24" y="153.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.640s;">                                    |.    .. ///%######****+*++*+++++++==+-----\\     ..::::|</tspan>
+<tspan x="24" y="159.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.680s;">                                    |:..   :/|#%%%%-----##**+*#***------\\#%-\-\\.        .:|</tspan>
+<tspan x="24" y="165.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.720s;">                                    |  .. \-||%%---------\#*****//-    ..-\\-+*\| .  ...   ||</tspan>
+<tspan x="24" y="170.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.760s;">                                    |..    :||#+=--:.::---+#**++-:-/---*+==+==||||     ..  |</tspan>
+<tspan x="24" y="176.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.800s;">                                    |:.     ||#*###*=--:-||%*===--:-++----=+**#|||        .|</tspan>
+<tspan x="24" y="181.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.840s;">                                    |:      ||#%*=--:. +-|+**/\\----+-. +--=+###|||       //</tspan>
+<tspan x="24" y="187.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.880s;">                                    |..     ||####-------/##+|%\\\---=--++-*##%#|||   /-- |</tspan>
+<tspan x="24" y="193.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.920s;">                                    \-\.--\/||####******####+#%%#*+=+++++**##%%#||\------\|</tspan>
+<tspan x="24" y="198.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 0.960s;">                                      ||/-\-||##%##*****#*%#*#%*+*+++++++**##%##||---/--|||</tspan>
+<tspan x="24" y="204.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.000s;">                                      \ ||\\||##%%##*+=*%%-//-----/:=**++*##%%##|:/\.\%// /</tspan>
+<tspan x="24" y="210.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.040s;">                                       \|\#\/|##%##+==*##/----/----==+++++**####|./|.|+|||</tspan>
+<tspan x="24" y="215.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.080s;">                                        \|**-*#%##/++#**+=--:=\-..::---\*++***#*+##\-/+--/</tspan>
+<tspan x="24" y="221.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.120s;">                                        \/#%%+###*|--:\\*++++=+==----:.-\+++**#**-%#----</tspan>
+<tspan x="24" y="226.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.160s;">                                         \--/-|##*\=---:+=====--=-:.:--:|*+***#*+-/---</tspan>
+<tspan x="24" y="232.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.200s;">                                          \-\:|###**-----***++===+----=-/+++**#*/</tspan>
+<tspan x="24" y="238.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.240s;">                                             -/###########**+++++++****++++**##*/</tspan>
+<tspan x="24" y="243.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.280s;">                                              \%##########***++++++******+***#*/</tspan>
+<tspan x="24" y="249.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.320s;">                                               -\##*###%%#%#*+*++****++**+*++=#|</tspan>
+<tspan x="24" y="255.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.360s;">                                                 |*+-------*==+=+=------=====//|</tspan>
+<tspan x="24" y="260.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.400s;">                                                 |*=--=-----==--------::--=+##@|</tspan>
+<tspan x="24" y="266.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.440s;">                                                 ||#\\-::::::::::::::.:-=+***#%|</tspan>
+<tspan x="24" y="271.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.480s;">                                                 ||%%\\-------::::::---++++**#%|</tspan>
+<tspan x="24" y="277.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.520s;">                                                 ||#%##***---------/+++++++**##\</tspan>
+<tspan x="24" y="283.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.560s;">                                                 ||%#####*##*+*++=+++++++++**##%\</tspan>
+<tspan x="24" y="288.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.600s;">                                                 |/##*####**#*++=-=+++++++++**#%#-\</tspan>
+<tspan x="24" y="294.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.640s;">                                                 |#########***+--========++++*#####-/--\</tspan>
+<tspan x="24" y="300.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.680s;">                                            /--\-###########*+=--=====+====+++*###%//==\\-\</tspan>
+<tspan x="24" y="305.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.720s;">                                         /--=+//########**###***+=====+++++=++*##-//===+++\---\</tspan>
+<tspan x="24" y="311.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.760s;">                                      /--=--+==\%########*###*++++==+++++++++*----====++++++++\---\</tspan>
+<tspan x="24" y="316.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.800s;">                                  /--/+-=++-=++:\\#########***+++++++*++++**=---=====+===+++++++++\---\</tspan>
+<tspan x="24" y="322.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.840s;">                               --/\-===+=+==-=++-\\%%###%%#***+*+***--++=--:---==+======+++==+++++++++\-------</tspan>
+<tspan x="24" y="328.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.880s;">                          -----/-=-======+=++==++=\---------------//-:::-==================================---------\</tspan>
+<tspan x="24" y="333.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.920s;">                     /---/-----===-===+=====++======----...-------:-----------==============================--=====+|\\</tspan>
+<tspan x="24" y="339.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 1.960s;">                   ///======-===--===+==+=+==+=======------------=-------------=======================-==----=======++\-\</tspan>
+<tspan x="24" y="345.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.000s;">                 ///--=-=============+=======+=======-=-------------------------==========-=-==----------------======+++\-\</tspan>
+<tspan x="24" y="350.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.040s;">               /-/*+=-=---==+=====-==+===============-==---------------------===-=-===========------:-:-------------===+++\\\</tspan>
+<tspan x="24" y="356.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.080s;">              //**+++===-=:-=====+======================-===-=-----------------=--==============-------::::----------==+=++*\\</tspan>
+<tspan x="24" y="361.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.120s;">             //**+==+=+===-:===-=+========-=========-===-=======-==--------------=-=============--==------:--::-:----====+++*\\</tspan>
+<tspan x="24" y="367.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.160s;">            //*+*+-=+==+===--====+=============-====-=-=======---=-------=---------=-===========--=--=------------:---====+++*\</tspan>
+<tspan x="24" y="373.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.200s;">           //++++*-=++=++++=-====+============--=---==-=======--===-------------------=====-===---::----------:::-----==-=++++\\</tspan>
+<tspan x="24" y="378.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.240s;">          //*+++-=+=+=+=+++=====================---==----==-----===--------------------====-===++=--------==-=-:----------=++++|</tspan>
+<tspan x="24" y="384.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.280s;">         //**+=++=+=+==+++++++====================--=-==-=--=====-------=-------------------=----=+-::--=--==-:---:-------=++++\\</tspan>
+<tspan x="24" y="390.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.320s;">         /*+++=++==+=-=+=++++++=+===========-==--=----------==---------------------------------:::--=:::=-::-=--:---::-=::-=+*++\\</tspan>
+<tspan x="24" y="395.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.360s;">        //+++*-=+==+===+=++++++==================--=--------==--=---------------------------------:::--:::.:-:-::--::-=::---=**+*|</tspan>
+<tspan x="24" y="401.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.400s;">       //+++++=-=======+++++====+==============----=----=--==--==---=------------------------------:::::::.::-::-:::---::---=+*++|</tspan>
+<tspan x="24" y="406.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.440s;">      |#+=+++=+:-===+==++++=+===============--==---=-===-=---===-====--==------------------------=--:::.:-..::-:::::--::-:::-\*#=|</tspan>
+<tspan x="24" y="412.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.480s;">      |+==+=++=+:-=--++*/::+++++++==========---------=-------===-=-===-==-====-------------::-=+==+-::::.:. :-:.:::::-:--:::-=\#*+|</tspan>
+<tspan x="24" y="418.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.520s;">     //====+=+==+:=--=+//:|**++=+++==========-------=-----==---==----=-=---====-==-------=-=-::.:-=+=:::....:.-::::::::-:::---=\#*|</tspan>
+<tspan x="24" y="423.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.560s;">    //+--=========:-:--:- |+==+++++++++====---------------=---=---=--------=====----============-==::::::. ..:--:::::::::::::--=+#|</tspan>
+<tspan x="24" y="429.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.600s;">   /*++=-=========-:-:.:-=-+*++++=+=+=====--------------------------====----=-------=============--=....:. :::::::::::::::::::-==+\</tspan>
+<tspan x="24" y="435.1" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.640s;">   |*===-=======-----:. \=:|*+++==++=+========----------------------------==----------=======+++==-::::. ..:::::::::::::-::::::-==\\</tspan>
+<tspan x="24" y="440.7" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.680s;">  //+==========-----::: \\|*++++++++++======-------------------=-----==---------------=======---=*|.:::.  .:::::::::::::::::::://-/|</tspan>
+<tspan x="24" y="446.3" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.720s;"> //+=====-======---:::.. ||=*****+++=======---------------------=----=----=------==-====+++===+==/:::::.. .:::::::::::::::::/------/</tspan>
+<tspan x="24" y="451.9" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.760s;">|*+==--===-=-----:-:::... \\**++++=+=====-=--------------------=---=---=---=------===============:::...   .:::::::::::------/***##%|</tspan>
+<tspan x="24" y="457.6" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.800s;">\\\+==---------:--:::::...\\+=++===-----=-==-=---------------=---=-----------------====-===--==+/.::::... ::::---------+++******###|</tspan>
+<tspan x="24" y="463.2" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.840s;">  \-\\----------::::::.... ||=+===---------=------------------------------------------=--------::.:::::.. ..--/----**+++++++*****##%\</tspan>
+<tspan x="24" y="468.8" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.880s;">     \\-/-------:::::..... ||=+-+=:--=--=-----------------------------------:-:::-------------:::::::::... |/**+**+++*+++++++***####|</tspan>
+<tspan x="24" y="474.4" fill="#8fbcbb" class="fade-line" style="animation-delay: 2.920s;">       :@#+--:::::::.....   +++-+-::====------------------------------------:::::-:----:-----::::::::::... :+++*+***++++=++++****##%%</tspan>
+  </text>
+  <text class="stats-text">
+<tspan x="375.1" y="70.2" class="fade-line" style="animation-delay: 0.080s;"><tspan fill="#88c0d0" font-weight="bold" font-size="14px">fat1h-ozturk@github</tspan></tspan>
+<tspan x="375.1" y="86.4" fill="#4c566a" class="fade-line" style="animation-delay: 0.140s;">-------------------</tspan>
+<tspan x="375.1" y="102.6" class="fade-line" style="animation-delay: 0.200s;"><tspan fill="#81a1c1" font-weight="600">OS:</tspan><tspan fill="#4c566a"> ...........</tspan><tspan fill="#a3be8c"> Fedora, Windows 11</tspan></tspan>
+<tspan x="375.1" y="118.8" class="fade-line" style="animation-delay: 0.260s;"><tspan fill="#81a1c1" font-weight="600">Host:</tspan><tspan fill="#4c566a"> .........</tspan><tspan fill="#a3be8c"> Gazi University - CENG (2/4)</tspan></tspan>
+<tspan x="375.1" y="135.0" class="fade-line" style="animation-delay: 0.320s;"><tspan fill="#81a1c1" font-weight="600">Editor:</tspan><tspan fill="#4c566a"> .......</tspan><tspan fill="#a3be8c"> Neovim, VSCode, Visual Studio</tspan></tspan>
+<tspan x="375.1" y="151.2" fill="#eceff4" class="fade-line" style="animation-delay: 0.380s;"></tspan>
+<tspan x="375.1" y="167.4" class="fade-line" style="animation-delay: 0.440s;"><tspan fill="#81a1c1" font-weight="600">Learning:</tspan><tspan fill="#4c566a"> .....</tspan><tspan fill="#a3be8c"> .NET (C#, ASP.NET Core)</tspan></tspan>
+<tspan x="375.1" y="183.6" class="fade-line" style="animation-delay: 0.500s;"><tspan fill="#81a1c1" font-weight="600">Backend:</tspan><tspan fill="#4c566a"> ......</tspan><tspan fill="#a3be8c"> REST APIs, Entity Framework, SQL Server</tspan></tspan>
+<tspan x="375.1" y="199.8" class="fade-line" style="animation-delay: 0.560s;"><tspan fill="#81a1c1" font-weight="600">Languages:</tspan><tspan fill="#4c566a"> ....</tspan><tspan fill="#a3be8c"> C, Java</tspan></tspan>
+<tspan x="375.1" y="216.0" class="fade-line" style="animation-delay: 0.620s;"><tspan fill="#81a1c1" font-weight="600">Locale:</tspan><tspan fill="#4c566a"> .......</tspan><tspan fill="#a3be8c"> tr_TR.utf-8, en_US.utf-8</tspan></tspan>
+<tspan x="375.1" y="232.2" fill="#eceff4" class="fade-line" style="animation-delay: 0.680s;"></tspan>
+<tspan x="375.1" y="248.4" class="fade-line" style="animation-delay: 0.740s;"><tspan fill="#4c566a">- </tspan><tspan fill="#88c0d0" font-weight="bold">Contact </tspan><tspan fill="#4c566a">-----------------------------------</tspan></tspan>
+<tspan x="375.1" y="264.6" fill="#eceff4" class="fade-line" style="animation-delay: 0.800s;"></tspan>
+<tspan x="375.1" y="280.8" class="fade-line" style="animation-delay: 0.860s;"><tspan fill="#81a1c1" font-weight="600">Email:</tspan><tspan fill="#4c566a"> ........</tspan><tspan fill="#a3be8c"> fatihozturk435@gmail.com</tspan></tspan>
+<tspan x="375.1" y="297.0" class="fade-line" style="animation-delay: 0.920s;"><tspan fill="#81a1c1" font-weight="600">LinkedIn:</tspan><tspan fill="#4c566a"> .....</tspan><tspan fill="#a3be8c"> https://www.linkedin.com/in/fatih-öztürk-829775347/</tspan></tspan>
+<tspan x="375.1" y="313.2" class="fade-line" style="animation-delay: 0.980s;"><tspan fill="#81a1c1" font-weight="600">Location:</tspan><tspan fill="#4c566a"> .....</tspan><tspan fill="#a3be8c"> Turkey</tspan></tspan>
+  </text>
+</svg>
