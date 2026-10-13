@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme_neofetch_nord.svg" width="100%" alt="Fatih Neofetch Terminal" />
+  <img src="gitfetch_username_nord.svg" width="100%" alt="Fatih Neofetch Terminal" />
 </div>
 
 <br/>
