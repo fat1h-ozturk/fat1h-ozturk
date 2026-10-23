@@ -117,7 +117,7 @@
   <g class="stats-group">
     <text x="341.6" y="70.2" xml:space="preserve"><tspan fill="#88c0d0" font-weight="bold" font-size="14px">fat1h-ozturk@github</tspan><tspan class="blinking-cursor" fill="#88c0d0">&#160;_</tspan></text>
     <text x="341.6" y="86.4" fill="#4c566a" xml:space="preserve">-------------------</text>
-    <text x="341.6" y="102.6" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">OS:</tspan><tspan fill="#4c566a">&#160;...........</tspan><tspan fill="#a3be8c">&#160;Windows&#160;11,&#160;macOS&#160;15,&#160;Linux</tspan></text>
+    <text x="341.6" y="102.6" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">OS:</tspan><tspan fill="#4c566a">&#160;...........</tspan><tspan fill="#a3be8c">&#160;Debian,&#160;Windows&#160;11</tspan></text>
     <text x="341.6" y="118.8" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Uptime:</tspan><tspan fill="#4c566a">&#160;.......</tspan><tspan fill="#a3be8c">&#160;20&#160;years</tspan></text>
     <text x="341.6" y="135.0" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Host:</tspan><tspan fill="#4c566a">&#160;.........</tspan><tspan fill="#a3be8c">&#160;Gazi&#160;University&#160;(2/4)</tspan></text>
     <text x="341.6" y="151.2" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Editor:</tspan><tspan fill="#4c566a">&#160;.......</tspan><tspan fill="#a3be8c">&#160;Neovim,&#160;VSCode,&#160;Visual&#160;Studio</tspan></text>
@@ -133,7 +133,7 @@
   <g>
     <rect x="341.6" y="59.0" width="161" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.100s; animation-timing-function: steps(19, end);" />
     <rect x="341.6" y="75.2" width="161" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.190s; animation-timing-function: steps(19, end);" />
-    <rect x="341.6" y="91.4" width="334" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.280s; animation-timing-function: steps(28, end);" />
+    <rect x="341.6" y="91.4" width="269" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.280s; animation-timing-function: steps(28, end);" />
     <rect x="341.6" y="107.6" width="197" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.370s; animation-timing-function: steps(24, end);" />
     <rect x="341.6" y="123.8" width="291" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.460s; animation-timing-function: steps(28, end);" />
     <rect x="341.6" y="140.0" width="348" height="19" fill="#242933" class="tw-mask" style="animation-delay: 0.550s; animation-timing-function: steps(28, end);" />
