@@ -120,7 +120,7 @@
     <text x="341.6" y="102.6" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">OS:</tspan><tspan fill="#4c566a">&#160;...........</tspan><tspan fill="#a3be8c">&#160;Debian,&#160;Windows&#160;11</tspan></text>
     <text x="341.6" y="118.8" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Uptime:</tspan><tspan fill="#4c566a">&#160;.......</tspan><tspan fill="#a3be8c">&#160;20&#160;years</tspan></text>
     <text x="341.6" y="135.0" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Host:</tspan><tspan fill="#4c566a">&#160;.........</tspan><tspan fill="#a3be8c">&#160;Gazi&#160;University&#160;(2/4)</tspan></text>
-    <text x="341.6" y="151.2" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Editor:</tspan><tspan fill="#4c566a">&#160;.......</tspan><tspan fill="#a3be8c">&#160;Neovim,&#160;VSCode,&#160;Visual&#160;Studio</tspan></text>
+    <text x="341.6" y="151.2" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Editor:</tspan><tspan fill="#4c566a">&#160;.......</tspan><tspan fill="#a3be8c">&#160;Neovim,&#160;VSCode</tspan></text>
     <text x="341.6" y="183.6" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Learning:</tspan><tspan fill="#4c566a">&#160;.....</tspan><tspan fill="#a3be8c">&#160;.NET&#160;(C#,&#160;ASP&#160;.NET&#160;Core)</tspan></text>
     <text x="341.6" y="199.8" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Languages:</tspan><tspan fill="#4c566a">&#160;....</tspan><tspan fill="#a3be8c">&#160;C,&#160;Java</tspan></text>
     <text x="341.6" y="216.0" xml:space="preserve"><tspan fill="#81a1c1" font-weight="600">Locale:</tspan><tspan fill="#4c566a">&#160;.......</tspan><tspan fill="#a3be8c">&#160;tr_TR.utf-8,&#160;en_US.utf-8</tspan></text>
